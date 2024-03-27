@@ -1,0 +1,14 @@
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\bin\Debug\makemytrip.exe.config
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\bin\Debug\makemytrip.exe
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\bin\Debug\makemytrip.pdb
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.Form1.resources
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.Properties.Resources.resources
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.csproj.GenerateResource.cache
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.csproj.CoreCompileInputs.cache
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.exe
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.pdb
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.Buses.resources
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.Sleeper.resources
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.Seaterseats.resources
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.csprojAssemblyReference.cache
+C:\Users\Lucid\source\repos\makemytrip\makemytrip\obj\Debug\makemytrip.Semiseaters.resources
